@@ -8,3 +8,4 @@ def printRobotics():
     return 5
 
 testFunction()
+printRobotics()
